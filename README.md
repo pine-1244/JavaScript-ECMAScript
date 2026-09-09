@@ -1,18 +1,18 @@
-# Curso Grátis de JavaScript e ECMAScript para Iniciantes
+# Free JavaScript and ECMAScript Course for Beginners
 
-> Curso de linguagem JavaScript, voltado para iniciantes e para quem quiser aprender mais sobre ECMAScript, a versão padronizada do JS. Em um curso patrocinado pelo Google, o professor Gustavo Guanabara vai ensinar o conteúdo básico em 6 módulos:
+> A JavaScript course designed for beginners and anyone wishing to learn more about ECMAScript, the standardized version of JS. In this course sponsored by Google, instructor Gustavo Guanabara teaches the fundamentals across 6 modules:
 
-### Módulo 01: Conhecendo o JavaScript
-    1. O que JavaScript é capaz de fazer?
-    2. Como chegamos até aqui?
-    3. Dandos os primeiros passos
-    4. Criando o seu primeiro script
-### Módulo 02: Comandos básicos do JavaScript
-    5. Variáveis e Tipos Primitivos
-    6. Tratamento de dados
-    7. Operadores (Parte 1)
-    8. Operadores (Parte 2)
-### Módulo 03: Document Object Model
-### Módulo 04: Condições em JavaScript
-### Módulo 05: Repetições (laços) em JavaScript
-### Módulo 06: Avançando nos estudos em JavaScript
+### Module 01: Getting to Know JavaScript
+1. What can JavaScript do? 
+2. How did we get here? 
+3. Taking the first steps
+4. Creating your first script
+### Module 02: Basic JavaScript Commands
+5. Variables and Primitive Types
+6. Data Handling
+7. Operators (Part 1)
+8. Operators (Part 2)
+### Module 03: Document Object Model
+### Module 04: Conditions in JavaScript
+### Module 05: Repetition (Loops) in JavaScript
+### Module 06: Advancing Your JavaScript Studies
